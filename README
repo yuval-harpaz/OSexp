@@ -2,6 +2,7 @@ OSexp
 =====
 
 opensesame experiments
+see Hebrew instructions below הוראות בעברית למטה
 
 here I put my scripts for opensesame (http://www.cogsci.nl/software/opensesame) experiments.
 
@@ -10,3 +11,11 @@ my first experiments are programs to teach my girls arithmetics.
 to run, get executable file of open sesame or run it from source, then open the script through the gui.
 
 yuval
+
+תרגילים בחשבון בשפה העברית נמצאים בתוך התיקייה "חשבון והנדסה". כדי להפעיל אותם צריך להוריד את התיקייה למחשב, צריך להתקין OpenSesame וצריך להוסיף פונט בעברית.
+
+1. להוריד את ה repository הזה, OSexp הכולל את "חשבון והנדסה": יש להגיע אל דף האינטרנט הבא ולהוריד את ה ZIP File
+ http://yuval-harpaz.github.com/OSexp/
+2. להתקין OpenSesame: בקישור הבא יש להוריד את    Windows XP/Vista/7 no installation required zip
+http://www.cogsci.nl/software/opensesame
+3. כדי שפונט עברית יעבוד צריך להעתיק קובץ שנקרא SILEOT.ttf מתוך תיקיית OSexp/documents לתוך תקיית opensesame*/resources
