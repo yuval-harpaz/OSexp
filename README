@@ -5,6 +5,7 @@ opensesame experiments
 see Hebrew instructions below הוראות בעברית למטה
 
 here I put my scripts for opensesame (http://www.cogsci.nl/software/opensesame) experiments.
+the code is free under general public license (http://www.gnu.org/licenses/gpl.html)
 
 my first experiments are programs to teach my girls arithmetics.
 
@@ -13,7 +14,9 @@ to run, get executable file of open sesame or run it from source, then open the 
 yuval
 
 תרגילים בחשבון בשפה העברית נמצאים בתוך התיקייה "חשבון והנדסה". כדי להפעיל אותם צריך להוריד את התיקייה למחשב, את תוכנת "שומשום היפתח" ופונט בעברית.
+לחיצה על כפתור "הורדות" תוביל לדף ובו קישור לקובץ מכווץ המכיל את הכל בעברית אבל ללא עדכונים שוטפים
 
+לקבלת גרסא עדכנית צריך לפעול לפי שלושת הצעדים הבאים
 ________________________________________________________________________
 כדי להוריד את מאגר הניסויים הזה הכולל את "חשבון והנדסה": יש להגיע אל דף האינטרנט הבא ולהוריד את קובץ ה-זיפ
 	http://yuval-harpaz.github.com/OSexp/
